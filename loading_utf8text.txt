@@ -1,0 +1,30 @@
+﻿<p align="left"><font face="Arial" size="14" color="#fc976b" letterSpacing="0.00" kerning="1">S109.Kakashi</font></p>
+////////
+<p align="center"><font face="Arial" size="21" color="#ff0000" letterSpacing="0.00" kerning="1">Hệ thống đang mắc lỗi Vui lòng quay lại sau</font></p>
+////////
+<p align="left"><font face="Arial" size="21" color="#dc9745" letterSpacing="0.00" kerning="1">S110.Naruto</font></p>
+////////
+<p align="center"><font face="Arial Bold" size="21" color="#ffe373" letterSpacing="-0.30" kerning="1"><b>S110.Naruto</b></font></p>
+////////
+<p align="left"><font face="Arial Bold" size="18" color="#390700" letterSpacing="-0.30" kerning="1"><b>S110.Naruto</b></font></p>
+////////
+<p align="left"><font face="Arial Bold" size="22" color="#ffffff" letterSpacing="-1.00" kerning="1"><b>S140.Naruto</b></font></p>
+////////
+<p align="left"><font face="Arial Bold" size="22" color="#ffffff" letterSpacing="-1.00" kerning="1"><b>S140.Naruto</b></font></p>
+////////
+<p align="left"><font face="Arial Bold" size="14" color="#684328" letterSpacing="0.00" kerning="1"><b>[20/4] Hoat dong dot 4 thang 4</b></font></p>
+////////
+<p align="center"><font face="Arial" size="18" color="#00ccff" letterSpacing="0.00" kerning="1">tiendv001</font></p>
+////////
+<p align="left"><font face="Arial Bold" size="14" color="#ffffff" letterSpacing="0.00" kerning="1"><b>Lưu thông tin đăng nhập</b></font></p>
+////////
+<p align="left"><font face="Arial" size="18" color="#3f1808" letterSpacing="0.00" kerning="1">aaâ</font></p>
+////////
+<p align="left"><font face="Arial" size="18" color="#3f1808" letterSpacing="0.00" kerning="1">aâ</font></p>
+////////
+<p align="left"></p>
+////////
+<p align="right"><font face="Arial" size="18" color="#ffffff" letterSpacing="0.00" kerning="1">Version 1</font></p>
+////////
+<p align="center"><font face="宋体" size="12" color="#ffffff" letterSpacing="0.00" kerning="1">Đang tải rất nhiều câu chuyện thú vị...</font></p>
+////////
